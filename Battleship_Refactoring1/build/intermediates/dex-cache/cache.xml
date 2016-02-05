@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\steve\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\steve\AndroidStudioProjects\Battleship_Refactoring1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-86b2fdbe73f6ef1c78fb01edc18f1009a9f643b3.jar" />
+    </item>
+
+</items>
